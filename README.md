@@ -12,4 +12,7 @@ Development Board)
 ## Basic Setup and Connection Diagram
 
 We will connect five of the nine pins on the board to Arduino. The five pins we need are labeled GND, 3.3v, OUTPUT, LO-, and LO+.
+![Connections between AD8232 and Arduino UNO](table.png)
+
+![Circuit Setup](circuitsetup.png)
 
